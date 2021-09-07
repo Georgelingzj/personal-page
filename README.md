@@ -30,18 +30,18 @@ My current research interest is computer vision, with special emphasis on visual
 ### Experience
 ----------------------------------
 - Xi Li' Lab, Zhejiang University, Hangzhou, China <span style="float:right;">2021.08-</span>
-  Research Intern
-  Advisor: [Prof. Xi Li](https://person.zju.edu.cn/en/xilics)
+  Research Intern<br>
+  Advisor: [Prof. Xi Li](https://person.zju.edu.cn/en/xilics)<br>
   Topic: Visual traking and 3D point cloud <br><br>
 
 - Technology Risk Department, [Ant Group](https://www.antgroup.com/en), Hangzhou, China <span style="float:right;">2021.06-2021.08</span>
-  Software Development Engineer Intern 
-  Group Leader: [Mr. Kun Wu](https://www.linkedin.com/in/kskywu/)
+  Software Development Engineer Intern <br>
+  Group Leader: [Mr. Kun Wu](https://www.linkedin.com/in/kskywu/)<br>
   Focus: Self-dependent fund risk identification system <br><br>
 
 - Engineering Psychology Laboratory, Tsinghua University, Remote <span style="float:right;">2020.06-2020.12</span>
-  Research Intern
-  Advisor:  [Dr. Jibo He](https://www.psych.tsinghua.edu.cn/xlxxen/info/1071/1099.htm)
+  Research Intern<br>
+  Advisor:  [Dr. Jibo He](https://www.psych.tsinghua.edu.cn/xlxxen/info/1071/1099.htm)<br>
   Topic: Data mining on driving distraction detection <br><br>
 
 
