@@ -13,7 +13,7 @@ Email: georgeling.0330 [at] gmail.com or scyzl4 [at] exmail.nottingham.ac.uk
 
 ### Biography
 ---------------------------------
-I am currently a final year undergraduate in the [University of Nottingham](https://www.nottingham.ac.uk), major in computer science. I will work on my final year thesis 'Visual Tracking Using Convolutional Neural Nets' in the current academic year(21-22), supervised by [Prof. Tony Pridmore](https://www.nottingham.ac.uk/computerscience/people/tony.pridmore). Before that, I have spent time as an intern with [Dr. Jibo He](https://www.psych.tsinghua.edu.cn/xlxxen/info/1071/1099.htm) at Tsinghua University, [Mr. Kun Wu](https://www.linkedin.com/in/kskywu/) at [Ant Group](https://www.antgroup.com/en), [Prof. Xi Li](https://person.zju.edu.cn/en/xilics) at Zhejiang University.
+I am currently a final year undergraduate at the [University of Nottingham](https://www.nottingham.ac.uk), major in computer science. I will work on my final year thesis 'Visual Tracking Using Convolutional Neural Nets' in the current academic year(21-22), supervised by [Prof. Tony Pridmore](https://www.nottingham.ac.uk/computerscience/people/tony.pridmore). Before that, I have spent time as an intern with [Dr. Jibo He](https://www.psych.tsinghua.edu.cn/xlxxen/info/1071/1099.htm) at Tsinghua University, [Mr. Kun Wu](https://www.linkedin.com/in/kskywu/) at [Ant Group](https://www.antgroup.com/en), [Prof. Xi Li](https://person.zju.edu.cn/en/xilics) at Zhejiang University.
 
 My current research interest is computer vision, with special emphasis on visual traking and 3D point cloud. My ultimate research interests are computer vision and perception with application to make machine think/work like real human.
 
