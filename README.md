@@ -20,10 +20,10 @@ My current research interest is computer vision, with special emphasis on visual
 ### Education
 --------------------------------
 
-- University of Nottingham (UNUK)<span style="float:right;">2020.09-2022.07(expected)</span>
+- University of Nottingham (UNUK)<span style="float:right;">2020.09-2022.07(expected)</span><br>
   BSc (Hons) Computer Science with Artificial Intelligence <br><br>
 
-- University of Nottingham Ningbo China(UNNC)<span style="float:right;">2018.09-2020.07</span>
+- University of Nottingham Ningbo China(UNNC)<span style="float:right;">2018.09-2020.07</span><br>
   BSc (Hons) Computer Science with Artificial Intelligence(2+2) <br>
 
 
