@@ -73,10 +73,8 @@ My current research interest is computer vision, with special emphasis on visual
 -------------------------
 I am from [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou), a beautiful city in the southeast coast of China.
 
-I have been a member of the school basketball team from primary school to university. The spirit of [Kobe](https://en.wikipedia.org/wiki/Kobe_Bryant) makes me a brave and iron man. I enjoy doing workout regularly.
+I have been a member of the school basketball team Since I was 10. The spirit of [Kobe](https://en.wikipedia.org/wiki/Kobe_Bryant) makes me a brave and iron man. I enjoy doing workout regularly.
 
-
-I love travelling a lot, I have went to 10 different countries with my family before covid-19.
 
 ### Note
 ---------------------------
