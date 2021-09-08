@@ -71,7 +71,6 @@ My current research interest is computer vision, with special emphasis on visual
 - Github: [https://github.com/Georgelingzj](https://github.com/Georgelingzj)
 - Linkedin: [https://www.linkedin.com/in/zijian-ling-a761a71b7/](https://www.linkedin.com/in/zijian-ling-a761a71b7/)<br><br>
 
-
 ### About my life
 -------------------------
 I am from [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou), a beautiful city in the southeast coast of China.
