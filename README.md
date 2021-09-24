@@ -19,7 +19,7 @@ My current research interest is computer vision, with special emphasis on visual
 
 <font color = red>I am currently looking for 2022 Autumn PhD opportunity related to computer vision or deep learning for vision learning. I am open to all kinds of opportunities</font><br>
 
-Update 2021.9.23: I have a very great idea about image privacy(both research and engineer), I will lead a student team working on it in one month.If you are interested in, plz contact me. 
+Update 2021.9.23: I have a very great idea about image privacy(both research and engineer).
 
 ### Education
 --------------------------------
