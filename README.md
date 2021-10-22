@@ -17,9 +17,6 @@ I am currently a final year undergraduate at the [University of Nottingham](http
 
 My current research interest is computer vision, with special emphasis on visual traking and 3D point cloud. My ultimate research interests are computer vision and robotic perception with application to make machine understand the real world.
 
-<font color = red>I am currently looking for 2022 Autumn PhD opportunity related to computer vision or deep learning for vision learning. I am open to all kinds of opportunities</font><br>
-
-Update 2021.9.23: I have a very great idea about image privacy(both research and engineer).
 
 ### Education
 --------------------------------
@@ -81,4 +78,10 @@ I have been a member of the school basketball team Since I was 10. The spirit of
 
 ### Note
 ---------------------------
-- Sorry for my temporary personal web, I am busy with my GRE and TOEFL test(till end of Sept.) and reasearch work(till end of Nov.). I will make a pretty one before Nov. as well as put some organised projects on it
+- Sorry for my temporary personal web, I am busy with my GRE and TOEFL test and reasearch work(till end of Nov.). I will make a pretty one before Nov. as well as put some organised projects on it
+
+
+Last Visited: Oct. 22. 2021
+
+
+
