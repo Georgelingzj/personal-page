@@ -24,6 +24,9 @@ My current research interests:
 Will and Hope
 - Self-supervised learning
 
+Used to
+- Time series analysis
+
 
 ### Education
 --------------------------------
@@ -54,7 +57,7 @@ Will and Hope
 
 ### Publications
 ----------------------------
-- Duoduo Hu, Annebella Tsz Ho Choi, Zijian Ling, Jibo HE. Detecting Driving Distraction: A Neural Network Model Using Wearable Devices (13th International Conference on Applied Human Factors and Ergonomics, AHFE 2022)
+- Duoduo Hu, Annebella Tsz Ho Choi, Zijian Ling, Jibo HE. Detecting Driving Distraction: A Neural Network Model Using Wearable Devices (13th International Conference on Applied Human Factors and Ergonomics, AHFE 2022) [will be available soon]()
 
 ### Selected Projects
 ----------------------------
@@ -83,7 +86,15 @@ Will and Hope
 -------------------------
 I am from [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou), a beautiful city in the southeast coast of China.
 
-I have been a member of the school basketball team Since I was 10. The spirit of [Kobe](https://en.wikipedia.org/wiki/Kobe_Bryant) makes me a brave and iron man. I enjoy doing workout regularly.
+Sports I was/am excelled / love :
+- sprint(100 m and 400 m, former player)
+- Judo (former player)
+- Basketball (for more than 10 years, former player)
+- rowing (2018-2020, former player)
+- Skiing
+
+Travelling is part of my life:
+- to be continue
 
 
 ### Note
