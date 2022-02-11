@@ -15,7 +15,14 @@ Email: georgeling.0330 [at] gmail.com or scyzl4 [at] exmail.nottingham.ac.uk
 ---------------------------------
 I am currently a final year undergraduate at the [University of Nottingham](https://www.nottingham.ac.uk), major in computer science. I will work on my final year thesis 'Visual Tracking Using Convolutional Neural Nets' in the current academic year(21-22), supervised by [Prof. Tony Pridmore](https://www.nottingham.ac.uk/computerscience/people/tony.pridmore). Before that, I have spent time as an intern with [Dr. Jibo He](https://www.psych.tsinghua.edu.cn/xlxxen/info/1071/1099.htm) at Tsinghua University, [Mr. Kun Wu](https://www.linkedin.com/in/kskywu/) at [Ant Group](https://www.antgroup.com/en), [Prof. Xi Li](https://person.zju.edu.cn/en/xilics) at Zhejiang University.
 
-My current research interest is computer vision, with special emphasis on visual traking and 3D point cloud. My ultimate research interests are computer vision and robotic perception with application to make machine understand the real world.
+My ultimate research interests are computer vision and robotic perception with application to make machine understand the real world.
+
+My current research interests:
+- scene understanding(now on 2D/3D tracking and segmentation)
+- deep learning attacks and defends
+
+Will and Hope
+- Self-supervised learning
 
 
 ### Education
@@ -45,6 +52,9 @@ My current research interest is computer vision, with special emphasis on visual
   Advisor:  [Dr. Jibo He](https://www.psych.tsinghua.edu.cn/xlxxen/info/1071/1099.htm)<br>
   Topic: Data mining on driving distraction detection <br><br>
 
+### Publications
+----------------------------
+- Duoduo Hu, Annebella Tsz Ho Choi, Zijian Ling, Jibo HE. Detecting Driving Distraction: A Neural Network Model Using Wearable Devices (13th International Conference on Applied Human Factors and Ergonomics, AHFE 2022)
 
 ### Selected Projects
 ----------------------------
@@ -81,7 +91,7 @@ I have been a member of the school basketball team Since I was 10. The spirit of
 - Sorry for my temporary personal web, I am busy with my GRE and TOEFL test and reasearch work(till end of Nov.). I will make a pretty one before Nov. as well as put some organised projects on it
 
 
-Last Visited: Oct. 22. 2021
+Last Visited: Feb. 11. 2022
 
 
 
