@@ -57,7 +57,7 @@ Used to
 
 ### Publications
 ----------------------------
-- Duoduo Hu, Annebella Tsz Ho Choi, Zijian Ling, Jibo HE. Detecting Driving Distraction: A Neural Network Model Using Wearable Devices (13th International Conference on Applied Human Factors and Ergonomics, AHFE 2022) [will be available soon]()
+- Duoduo Hu, Annebella Tsz Ho Choi, Zijian Ling, Jibo HE. Detecting Driving Distraction: A Neural Network Model Using Wearable Devices (13th International Conference on Applied Human Factors and Ergonomics, AHFE 2022) [Project will be available soon]()
 
 ### Selected Projects
 ----------------------------
@@ -93,13 +93,9 @@ Sports I was/am excelled / love :
 - rowing (2018-2020, former player)
 - Skiing
 
-Travelling is part of my life:
-- to be continue
-
 
 ### Note
 ---------------------------
-- Sorry for my temporary personal web, I am busy with my GRE and TOEFL test and reasearch work(till end of Nov.). I will make a pretty one before Nov. as well as put some organised projects on it
 
 
 Last Visited: Feb. 11. 2022
