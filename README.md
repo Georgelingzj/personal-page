@@ -5,7 +5,7 @@
 <img width="300" height="300" src="./data/self.jpg" style="float:left;" /><span style="float:left"></span></div>
 
 
-Final year undergraduate in the University of Nottingham UK, major in computer science.
+Final year undergraduate in the University of Nottingham UK, major in Computer Science with Artificial Intelligence
 
 
 Email: georgeling.0330 [at] gmail.com or scyzl4 [at] exmail.nottingham.ac.uk
@@ -13,7 +13,7 @@ Email: georgeling.0330 [at] gmail.com or scyzl4 [at] exmail.nottingham.ac.uk
 
 ### Biography
 ---------------------------------
-I am currently a final year undergraduate at the [University of Nottingham](https://www.nottingham.ac.uk), major in computer science. I will work on my final year thesis 'Visual Tracking Using Convolutional Neural Nets' in the current academic year(21-22), supervised by [Prof. Tony Pridmore](https://www.nottingham.ac.uk/computerscience/people/tony.pridmore). Before that, I have spent time as an intern with [Dr. Jibo He](https://www.psych.tsinghua.edu.cn/xlxxen/info/1071/1099.htm) at Tsinghua University, [Mr. Kun Wu](https://www.linkedin.com/in/kskywu/) at [Ant Group](https://www.antgroup.com/en), [Prof. Xi Li](https://person.zju.edu.cn/en/xilics) at Zhejiang University.
+I am currently a final year undergraduate at the [University of Nottingham](https://www.nottingham.ac.uk), major in Computer Science with Artificial Intelligence. My dissertation is "Visual Tracking using Deep Learning", supervised by [Prof. Tony Pridmore](https://www.nottingham.ac.uk/computerscience/people/tony.pridmore). Before that, I have spent time as an intern with [Dr. Jibo He](https://www.psych.tsinghua.edu.cn/xlxxen/info/1071/1099.htm) at Tsinghua University, [Mr. Kun Wu](https://www.linkedin.com/in/kskywu/) at [Ant Group](https://www.antgroup.com/en), [Prof. Xi Li](https://person.zju.edu.cn/en/xilics) at Zhejiang University.
 
 My ultimate research interests are computer vision and robotic perception with application to make machine understand the real world.
 
@@ -21,11 +21,8 @@ My current research interests:
 - scene understanding(now on 2D/3D tracking and segmentation)
 - deep learning attacks and defends
 
-Will and Hope
-- Self-supervised learning
-
 Used to
-- Time series analysis
+- Deep learning for Time series analysis
 
 
 ### Education
@@ -40,7 +37,7 @@ Used to
 
 ### Experience
 ----------------------------------
-- Xi Li' Lab, Zhejiang University, Hangzhou, China <span style="float:right;">2021.08-</span><br>
+- Xi Li' Lab, Zhejiang University, Hangzhou, China <span style="float:right;">2021.08-2021.10</span><br>
   Research Intern<br>
   Advisor: [Prof. Xi Li](https://person.zju.edu.cn/en/xilics)<br>
   Topic: Visual traking and 3D point cloud <br><br>
@@ -98,7 +95,7 @@ Sports I was/am excelled / love :
 ---------------------------
 
 
-Last Visited: Feb. 11. 2022
+Last Visited: Mar. 15. 2022
 
 
 
