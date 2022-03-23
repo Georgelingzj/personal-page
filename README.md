@@ -18,8 +18,8 @@ I am currently a final year undergraduate at the [University of Nottingham](http
 My ultimate research interests are computer vision and robotic perception with application to make machine understand the real world.
 
 My current research interests:
-- scene understanding(now on 2D/3D tracking and segmentation)
-- deep learning attacks and defends
+- Deep Learning for Computer Vision
+- Scene Understanding
 
 Used to
 - Deep learning for Time series analysis
