@@ -26,9 +26,9 @@ Used to
 - Deep learning for Time series analysis
 
 
-I am recruited as a **part-time** machine learning engineer in a quantitative trading startup group in [SJTU] during the following summer (https://en.sjtu.edu.cn/)
+I am recruited as a **part-time** machine learning engineer in a quantitative trading startup group in [SJTU](https://en.sjtu.edu.cn/)during the following summer 
 
-I take Design Intelligent Agent module taught by [https://scholar.google.co.uk/citations?user=6W7BtygAAAAJ&hl=en] this semester, then I will do my module project on robotics and reinforcement learning simulation.
+I take Design Intelligent Agent module taught by [Dr. Colin Johnson](https://scholar.google.co.uk/citations?user=6W7BtygAAAAJ&hl=en) this semester, then I will do my module project on robotics and reinforcement learning simulation.
 
 
 ### Education
