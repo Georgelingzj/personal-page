@@ -20,9 +20,15 @@ My ultimate research interests are computer vision and robotic perception with a
 My current research interests:
 - Deep Learning for Computer Vision
 - Scene Understanding
+- Robotics
 
 Used to
 - Deep learning for Time series analysis
+
+
+I am recruited as a **part-time** machine learning engineer in a quantitative trading startup group in [SJTU] during the following summer (https://en.sjtu.edu.cn/)
+
+I take Design Intelligent Agent module taught by [https://scholar.google.co.uk/citations?user=6W7BtygAAAAJ&hl=en] this semester, then I will do my module project on robotics and reinforcement learning simulation.
 
 
 ### Education
@@ -95,7 +101,7 @@ Sports I was/am excelled / love :
 ---------------------------
 
 
-Last Visited: Mar. 15. 2022
+Last Visited: Mar. 28. 2022
 
 
 
