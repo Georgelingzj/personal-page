@@ -7,6 +7,7 @@
 
 Final year undergraduate in the University of Nottingham UK, major in Computer Science with Artificial Intelligence
 
+I will be a research master student at [Imperial College London](https://www.imperial.ac.uk/) in 2022 Fall, major in MRes Artificial Intelligence and Machine Learning.
 
 Email: georgeling.0330 [at] gmail.com or scyzl4 [at] exmail.nottingham.ac.uk
 
@@ -102,7 +103,7 @@ Sports I was/am excelled / love :
 ---------------------------
 
 
-Last Visited: Mar. 28. 2022
+Last Visited: May. 8. 2022
 
 
 
