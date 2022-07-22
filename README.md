@@ -20,27 +20,15 @@ I am currently a final year undergraduate at the [University of Nottingham](http
 
 My ultimate research interests are computer vision and robotic perception with application to make machine understand the real world.
 
-My current research interests:
-- Deep Learning for Computer Vision
-- Scene Understanding
-- Robotics
-
-Used to
-- Deep learning for Time series analysis
-
-
-<!-- I am recruited as a **part-time** machine learning engineer in a quantitative trading startup group in [SJTU](https://en.sjtu.edu.cn/)during the following summer  -->
-
 
 
 ### Education
 --------------------------------
+- Imperial College London<span style="float:right;">2022.10-2023.10</span><br>
+  MRes Artificial Intelligence and Machine Learning <br><br>
 
-- University of Nottingham (UNUK)<span style="float:right;">2020.09-2022.07(expected)</span><br>
+- University of Nottingham (UNUK)<span style="float:right;">2018.09-2022.06</span><br>
   BSc (Hons) Computer Science with Artificial Intelligence <br><br>
-
-- University of Nottingham Ningbo China(UNNC)<span style="float:right;">2018.09-2020.07</span><br>
-  BSc (Hons) Computer Science with Artificial Intelligence(2+2) <br>
 
 
 ### Experience
@@ -105,7 +93,7 @@ Sports I was/am excelled / love :
 ---------------------------
 
 
-Last Visited: May. 8. 2022
+Last Visited: July. 8. 2022
 
 
 
