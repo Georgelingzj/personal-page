@@ -5,10 +5,6 @@
 <img width="300" height="300" src="./data/self.jpg" style="float:left;" /><span style="float:left"></span></div>
 
 
-Final year undergraduate in the University of Nottingham UK, major in Computer Science with Artificial Intelligence
-
-I will be a research master student at [Imperial College London](https://www.imperial.ac.uk/) in 2022 Fall, major in MRes Artificial Intelligence and Machine Learning.
-
 <font color="red">I am actively seeking long-term research intern opportunity and summer research intern opportunity</font><br/>
 
 Email: georgeling.0330 [at] gmail.com or scyzl4 [at] exmail.nottingham.ac.uk
